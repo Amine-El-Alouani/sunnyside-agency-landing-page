@@ -1,0 +1,41 @@
+// Vars
+
+:root {
+  //Primary Colors
+
+  --SoftRed: hsl(7, 99%, 70%);
+  --Yellow: hsl(51, 100%, 49%);
+  --DarkBlue: hsl(198, 62%, 26%); //graphic design text
+  --DarkCyan-900: hsl(167, 40%, 24%); //photography text
+  --DarkCyan-800: hsl(168, 34%, 41%); //footer
+
+  //Neutral Colors
+
+  --Dark-D-Blue: hsl(212, 27%, 19%);
+  --Dark-G-Blue-900: hsl(213, 9%, 39%);
+  --Dark-G-Blue-800: hsl(232, 10%, 55%);
+  --Dark-G-Blue-700: hsl(210, 4%, 67%);
+  --White: hsl(0, 0%, 100%);
+
+  //Font Sizes
+
+  --fs-900: 2.5rem;
+  --fs-600: 1.125rem;
+  --fs-400: 1rem;
+
+  // Font Family
+  --ff-Fraunces: "Fraunces", serif;
+  --ff-Barlow: "Barlow", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+//Container
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
